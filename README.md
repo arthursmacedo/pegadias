@@ -74,11 +74,11 @@ bash
 Configuration
 
     Update viena.csv with the required dates for infrasound data retrieval.
-    Modify station IDs (estacao) and file paths in run_infrasound_analysis.py as needed.
+    Modify station IDs (station) and file paths in run_infrasound_analysis.py as needed.
 
 License
 
 This project is licensed under the MIT License.
 Contact
 
-For any inquiries or support, please contact Arthur.
+For any inquiries or support, please contact arthursmacedo@usp.br.
