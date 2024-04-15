@@ -1,5 +1,4 @@
-
-![banner_oficial](https://github.com/arthursmacedo/pegadias/assets/74022263/8bfe7d86-c98d-4b64-813d-8e400e2c5835)
+![banner_ofc](https://github.com/arthursmacedo/pegadias/assets/74022263/fbc80df9-4e5d-4b49-a3eb-40066e76b681)
 
 Infrasound Analysis Tool
 
