@@ -1,0 +1,8 @@
+begin ims2.0
+msg_type request
+msg_id mseed_i11cv
+time 2023/01/01 00:00:00 to 2023/01/01 23:59:59
+sta_list I11CV
+chan_list BDF
+waveform ims2.0:ms_st2_512
+stop

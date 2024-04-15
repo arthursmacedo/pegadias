@@ -1,0 +1,8 @@
+begin ims2.0
+msg_type request
+msg_id mseed_i37no
+time 2023/04/23 00:00:00 to 2023/04/23 23:59:59
+sta_list I37NO
+chan_list BDF
+waveform ims2.0:ms_st2_512
+stop
